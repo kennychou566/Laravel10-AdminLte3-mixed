@@ -5,7 +5,7 @@
 
 Integrations laravel10 & adminlte3.2 two frameworks , Speed Web application design.
 
-![image](https://github.com/kennychou556/Laravel10-AdminLte3-mixed/blob/main/Screenshot_Dashboard.png)
+![image](https://github.com/kennychou566/Laravel10-AdminLte3-mixed/blob/main/Screenshot_Dashboard.png)
 
 ## Environmental requirements:
 PHP8.0+
