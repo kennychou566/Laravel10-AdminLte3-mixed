@@ -8,7 +8,7 @@
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="/nextPage">Home2</a></li>
-              <li class="breadcrumb-item active">Blank Page</li>
+              <li class="breadcrumb-item active">Installation</li>
             </ol>
           </div>
         </div>
@@ -51,7 +51,7 @@
             </p>
             <h5 class="">Installation :</h5>
             <p>Clone this repository, install the dependencies, and setup your .env file.<br>
-                <font style="background-color: rgb(255, 255, 255);" color="#6ba54a">git clone https://github.com/KennyChou566/Laravel10-AdminLte3-mixed.git<br>
+                <font style="background-color: rgb(255, 255, 255);" color="#6ba54a">git clone https://github.com/kennychou566/Laravel10-AdminLte3-mixed.git<br>
                 composer install<br>cp .env.example .env<br>Modify .env file for DB the username &amp; password etc.<br>
                 Run the initial migrations and seeders.<br>
                 php artisan migrate --seed<br>Start your project to develop.<br>php artisan serve --host 192.168.xx.xx

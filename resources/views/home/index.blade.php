@@ -42,7 +42,7 @@
 <h3><span style="color: #3366ff;">Installation :</span></h3>
 <blockquote>
 <p><span style="color: #800080;"><em>Clone this repository, install the dependencies, and setup your .env file.</em></span></p>
-<p><span style="color: #800080;"><em>git clone <a style="color: #800080;" href="https://github.com/KennyChou566/Laravel10-AdminLte3-mixed.git">https://github.com/KennyChou566/Laravel10-AdminLte3-mixed.git</a></em></span></p>
+<p><span style="color: #800080;"><em>git clone <a style="color: #800080;" href="https://github.com/kennychou566/Laravel10-AdminLte3-mixed.git">https://github.com/KennyChou566/Laravel10-AdminLte3-mixed.git</a></em></span></p>
 <p><span style="color: #800080;"><em>composer install</em></span></p>
 <p><span style="color: #800080;"><em>cp .env.example .env</em></span></p>
 </blockquote>
