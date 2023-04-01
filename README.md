@@ -5,6 +5,8 @@
 
 Integrations laravel10 & adminlte3.2 two frameworks , Speed Web application design.
 
+![image](https://github.com/kennychou556/Laravel10-AdminLte3-mixed/blob/main/Screenshot_Dashboard.png)
+
 ## Environmental requirements:
 PHP8.0+
 
@@ -46,7 +48,7 @@ Now import sql file to database in MySQL shell with:
 
 Clone this repository, install the dependencies, and setup your .env file.
 
- **git clone https://github.com/KennyChou566/Laravel10-AdminLte3-mixed.git**
+ **git clone https://github.com/kennychou566/Laravel10-AdminLte3-mixed.git**
 
  **composer install**
 
