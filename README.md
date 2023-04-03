@@ -64,6 +64,9 @@ Start your project to develop.
 
 **php artisan serve --host 192.168.xx.xx**
 
+Demo login ID & password
+
+**Login:admin@test.com  Password:password**
 
 ## Contact :
 ✉️: kenny@kennychou.com
