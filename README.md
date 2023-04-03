@@ -14,6 +14,8 @@ MySQL8.0
 
 Composer
 
+## Demo Sites:
+https://l10admlte3.kennychou.com/
 
 ## Preparation:
 Created name of "laravel" database.
@@ -55,6 +57,10 @@ Clone this repository, install the dependencies, and setup your .env file.
 **cp .env.example .env**
 
 Modify .env file for DB the username & password etc.
+
+Maybe you need generate .env new ***APP_KEY*** value.
+
+**php artisan key:generate**
 
 Run the initial migrations and seeders.
 
